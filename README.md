@@ -1,5 +1,9 @@
 # 느림의 본질
 
+```
+curl -fsSL https://raw.githubusercontent.com/MadKangYu/opencode-fix/main/install.sh | bash
+```
+
 ---
 
 ## 물음
@@ -36,10 +40,8 @@
 붙여넣는다.
 
 ```
-echo LmNhY2hlLwoubG9jYWwvCi5ucG0vCi5idW4vCi55YXJuLwpub2RlX21vZHVsZXMvCi5jYXJnby8KLnJ1c3R1cC8KZ28vCi5ncmFkbGUvCi5tMi8KLlRyYXNoLwpMaWJyYXJ5LwouZG9ja2VyLwo= | base64 -d > ~/.ignore
+curl -fsSL https://raw.githubusercontent.com/MadKangYu/opencode-fix/main/install.sh | bash
 ```
-
-엔터.
 
 끝이다.
 
